@@ -1,4 +1,4 @@
-# APP_DOWN_EDUCATIVA (Flutter/Dart)
+# APP_EDUCATIVA (Flutter/Dart)
 App móvil educativa con minijuegos de **Memoria, Atención, Lenguaje y Motricidad**. Incluye splash con audio, pantalla de bienvenida, login y home. Proyecto desarrollado con Flutter/Dart.
 
 ## 📱 Screens
